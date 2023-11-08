@@ -1,0 +1,2 @@
+# SystemDesign
+- The SystemDesign folder contains materials related to system design interviews. You can explore architecture diagrams, case studies, and best practices for designing scalable and efficient systems.

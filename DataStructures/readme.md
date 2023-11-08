@@ -1,0 +1,2 @@
+# DataStructures
+- In the DataStructures folder, you'll find implementations and explanations of various data structures. Understanding these data structures is crucial for solving complex coding challenges and technical interview questions.

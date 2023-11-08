@@ -1,0 +1,2 @@
+# Resources
+- The Resources folder contains a curated list of books, websites, courses, and other materials that can help in your interview preparation journey. It's a valuable reference for finding additional learning resources.

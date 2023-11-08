@@ -1,0 +1,2 @@
+# BehavioralInterviews
+- Behavioral interviews are an important part of the interview process. In this folder, you'll find tips, sample questions, and answers to help you prepare for the non-technical aspects of interviews.

@@ -1,0 +1,2 @@
+# Algorithms
+- This folder contains implementations of common algorithms and data structures that are frequently asked about in technical interviews. You can find code, explanations, and examples for a wide range of algorithms.

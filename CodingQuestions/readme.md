@@ -1,0 +1,2 @@
+# CodingChallenges
+- Here, you'll find solutions to coding challenges from platforms like LeetCode, HackerRank, and CodeSignal. These challenges are a great way to hone your problem-solving skills and practice coding under time constraints.
